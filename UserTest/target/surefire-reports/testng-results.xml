@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="7463" started-at="2013-12-07T20:16:05Z" finished-at="2013-12-07T20:16:13Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="7463" started-at="2013-12-07T20:16:05Z" finished-at="2013-12-07T20:16:13Z">
+      <class name="BaseTest">
+        <test-method status="PASS" signature="start()[pri:0, instance:BaseTest@4c0ce83d]" name="start" is-config="true" duration-ms="558" started-at="2013-12-07T15:16:05Z" finished-at="2013-12-07T15:16:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="close()[pri:0, instance:BaseTest@4c0ce83d]" name="close" is-config="true" duration-ms="5084" started-at="2013-12-07T15:16:08Z" finished-at="2013-12-07T15:16:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- BaseTest -->
+      <class name="CoreSmokeTest">
+        <test-method status="PASS" signature="buyTicketsAsNewCustomer()[pri:0, instance:CoreSmokeTest@3400a40]" name="buyTicketsAsNewCustomer" duration-ms="1812" started-at="2013-12-07T15:16:06Z" finished-at="2013-12-07T15:16:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buyTicketsAsNewCustomer -->
+      </class> <!-- CoreSmokeTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
