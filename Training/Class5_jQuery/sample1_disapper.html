@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js">
+</script>
+<script>
+
+//hides with one click
+$(document).ready(function(){
+  $("p").click(function(){
+    $(this).hide();
+  });
+});
+
+
+//hides with double click
+$(document).ready(function(){
+  $("b").dblclick(function(){
+    $(this).hide();
+  });
+});
+
+
+//hover overj
+
+$(document).ready(function(){
+  $("#p1").hover(function(){
+    alert("You entered p1!");
+    },
+    function(){
+    alert("Bye! You now leave p1!");
+  }); 
+});
+
+//alert from a box
+
+$(document).ready(function(){
+  $("button").click(function(){
+    alert("Value: " + $("#test").val());
+  });
+});
+</script>
+</head>
+<body>
+
+<p>If you click on me, I will disappear.</p>
+*/<p>Click me away!</p>
+<b>Dbouble Click me too!</b>
+<i id="p1">This is a paragraph.</i>
+
+
+<br>Name: <input type="text" id="test" value="Mickey Mouse"></br>
+<button>Show Value</button>
+*/
+
+</body>
+</html>

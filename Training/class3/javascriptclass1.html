@@ -1,0 +1,50 @@
+
+<html>
+<head>
+<script>
+function verify()
+{
+	
+	var e=document.getElementById("email").value;
+	var p=document.getElementById("pass").value;
+	
+	if(e==""&&p=="")
+	{
+		alert("no id and no password");
+	}
+	else if(e=="")
+	{
+		confirm("email not found");
+	}
+	else if(p=="")
+	{
+		prompt("no password");
+	}
+	else if(e=="abc@gmail.com"&&p=="123")
+	{
+		alert("valid");
+	}
+	else if (e!="abc@gmail.com"&&p=="123")
+	{
+		alert("invalid email");
+	}
+	else if (e=="abc@gmail.com"&&p!="123")
+	{
+		alert("invalid pass");
+	}
+
+	
+
+}
+
+
+</script>
+
+
+	email<input type=text id="email"><br>
+	password<input type=password id="pass"><br>
+	<!-- <input type=button value="submit" onclick="alert('hello')">-->
+	
+	<input type=button value="submit" onclick="verify()">
+	</body>
+</html>

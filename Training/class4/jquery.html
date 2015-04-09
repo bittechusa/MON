@@ -1,0 +1,30 @@
+<html>
+<head>
+<script src="shahidulquery.js"></script>
+<script>
+$(document).ready(function(){
+  $("#moga").click(function(){
+    $("h").hide();
+  });
+  $("#show").click(function(){
+    $("h").show();
+  });
+});
+$(document).ready(function(){
+  $("#flip").click(function(){
+    $("#panel").slideDown("slow");
+  });
+});
+</script>
+</head>
+<body>
+<h>If you click on the "Hide" button, I will disappear.</h>
+
+<button id="moga">Hide</button>
+<button id="show">Show</button>
+<div id="flip">click for slidedown</div>
+<div id ="panel">hello</div>
+</body>
+</head>
+
+</html>

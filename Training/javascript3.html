@@ -1,0 +1,51 @@
+
+<html>
+<head>
+<script>
+function verify()
+{
+	var e=document.getElementById("email").value;
+	var p=document.getElementById("pass").value;
+	var acc=document.getElementById("acc").value;
+	if(e==""&&p=="")
+	{
+		confirm("no id and no password");
+	}
+	else if(e=="")
+	{
+		alert("email not found");
+	}
+	else if(p=="")
+	{
+		alert("no password");
+	}
+
+	if(acc=="")
+	{
+		alert("no account");
+	}
+
+}
+
+</script>
+<style>
+p{color:red;}
+b{color:blue;}
+.shahidul{color:green;}
+#asad{color:black;}
+</style>
+</head>
+<body>
+	
+	<p>welcome</p>
+	<b>hello</b>
+	<h2 class ="shahidul">
+	bittech</h2>
+
+<h1 id="asad">corp</h1>
+	email<input type=text id="email"><br>
+	password<input type=password id="pass"><br>
+	account<input type=text id="acc"><br>
+	<input type=button value="submit" onclick="verify()">
+	</body>
+</html>

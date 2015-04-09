@@ -1,0 +1,40 @@
+
+<html>
+<head>
+<script>
+function verify()
+{
+	//javascript{"shahidul"+Math.floor(Math.random()*1000000)+"@yahoo.com";}for selenium ide;to get random email number
+	var e=document.getElementById("email").value;
+	var p=document.getElementById("pass").value;
+	var acc=document.getElementById("acc").value;
+	if(e==""&&p=="")
+	{
+		alert("no id and no password");
+	}
+	else if(e=="")
+	{
+		alert("email not found");
+	}
+	else if(p=="")
+	{
+		alert("no password");
+	}
+
+	if(acc=="")
+	{
+		alert("no account");
+	}
+
+}
+
+
+</script>
+
+
+	email<input type=text id="email"><br>
+	password<input type=password id="pass"><br>
+	account<input type=text id="acc"><br>
+	<input type=button value="submit" onclick="verify()">
+	</body>
+</html>

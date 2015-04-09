@@ -1,0 +1,55 @@
+**Element 
+	css=tagname
+	css=input
+
+**id:
+	css=#value
+	css=#u_0_1
+
+**class:
+	css=.value
+	css=.textlink
+
+**combining selector with class or id:
+	css=tagname.class-value
+
+**combine with all other attribute:
+	css=tagname[name="name-value"][value="value"]
+	css=input[name="fname"][value="a"]
+
+**help of decandent and child selector:
+	Decendent--top tagname target tagname[name="value"]
+			body input[name="fname"]
+	child--top tagname>tagname>target tagname[name="value"]
+			body>div>input[name="fname"]
+**to take first part of value
+	tagname[pname^="first part of value"]
+	a[href^="first part"]
+
+**to take last part of value
+	tagname[pname$="last part of value"]
+	a[src$=".jpg"]
+
+**if u want to take all elements proceeded by any element
+	tagname ~target tagname
+	div~p
+
+**to get all elements in same name more than one tag with another all same tag name element
+	tagname,tagname
+	div,p
+		
+
+** if u want all tag under another tag
+	taparent tag child tag
+
+	div p
+
+
+
+
+
+
+
+
+
+

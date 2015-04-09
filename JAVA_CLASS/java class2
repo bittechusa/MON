@@ -1,0 +1,135 @@
+**ACCESS CONTROL MODIFIERS:
+	Java provides a number of access modifiers to set access levels for classes, variables, methods and constructors. The four access levels are:
+	Visible to the package, the default. No modifiers are needed.
+	Visible to the class only (private).
+	Visible to the world (public).
+	Visible to the package and all subclasses (protected).
+
+**NON ACCESS MODIFIERS:
+	Java provides a number of non-access modifiers to achieve many other functionality.
+	The static modifier for creating class methods and variables
+	The final modifier for finalizing the implementations of classes, methods, and variables.
+	The abstract modifier for creating abstract classes and methods.
+
+**OBJECT :  
+	Objects have states and behaviors. Example: A dog has states - color, name, breed as well as behaviors -wagging, barking, eating. An object is an instance of a class.
+
+**CLASS :
+	 A class can be defined as a template/blue print that describes the behaviors/states that object of its type support.
+	A class can contain any of the following variable types.
+
+**LOCAL VARIABLES:
+	 Variables defined inside methods, constructors or blocks are called local variables. The variable will be declared and initialized within the method and the variable will be destroyed when the method has completed.
+
+**INSTANCE VARIABLES:
+	 Instance variables are variables within a class but outside any method. These variables are instantiated when the class is loaded. Instance variables can be accessed from inside any method, constructor or blocks of that particular class.
+
+**CLASS VARIABLES:
+	 Class variables are variables declared with in a class, outside any method, with the static keyword.
+
+**CONSTRUCTOR:
+	When discussing about classes, one of the most important sub topic would be constructors. Every class has a constructor.constructor in java is bloak of code which is excuted at the time of object creation. 
+	The main rule of constructors is that they should have the same name as the class. A class can have more than one constructor.
+
+**CREATING AN OBJECT:
+	A class provides the blueprints for objects. So basically an object is created from a class. In Java, the new key word is used to create new objects.
+*EXAMPLE:
+	 class name - variables = new (keyword) class name then method name.     A x=new A();
+**BASIC OPERATION:
+	Java provides a rich set of operators to manipulate variables. We can divide all the Java operators into the following groups:
+
+	*Arithmetic Operators
+	*Relational Operators
+	*Logical Operators
+	*Assignment Operators
+	*conditional operation
+	*instanceOF
+**THE ARITHMETIC OPERATORS:
+	Arithmetic operators are used in mathematical expressions in the same way that they are used in algebra. The following table lists the arithmetic operators:
+
+*Show Examples
+
+Operator Description Example:
++	Addition: A + B 
+-	Subtraction:A-B
+*	Multiplication:A*B
+/	Division - B/A
+%	Modulus - B % A 
+++	Increment - Increases 
+--	Decrement - Decreases 
+
+**THE RELATIONAL OPERATORS:
+
+*Show Examples:
+	==	(A == B) MEANS EQUAL
+	!=	(A != B) MEANS NOT EQUAL.
+	> --> (A > B) A IS GREATER THAN B.
+	< --> (A < B) A IS LESS THAN B.
+	>= -->(A >= B) A IS GREATER OR E
+	<= -->(A <= B) A is LESS OR EQUAL.
+
+**LOGICAL OPERATORS:
+
+	Operator Description	Example:
+	&&--> (A && B) MEANS A AND B.
+	||--> (A || B) A OR B.
+	! --> !(A && B) MEANS A AND B NOT EQUAL.
+**ASSIGNMENT OPERATORS:
+
+	*Operator	Description	Example:
+	= C = A + B will assign value of A + B into C
+	+=	Add AND assignment operator C += A is equivalent to C = C + A
+	-= Subtract AND assignment operator,C-= A is equivalent to C = C - A
+	*=Multiply AND assignment operator,C *= A is equivalent to C = C * A
+	/=Divide AND assignment operator,C /= A is equivalent to C = C / A
+	%=Modulus AND assignment operator,C %= A is equivalent to C = C % A
+	<<=Left shift AND assignment operator C <<= 2 is same as C = C << 2
+	>>=Right shift AND assignment operator C >>= 2 is same as C = C >> 2
+	&=Bitwise AND assignment operator	C &= 2 is same as C = C & 2
+	^=bitwise exclusive OR and assignment operator C ^=2 is same as C = C ^ 2.
+	|=bitwise inclusive OR and assignment operator C |= 2 is same as C = C | 2
+
+**MISC OPERATORS:
+
+*CONDITIONAL OPERATOR: ( ? : ):
+	Conditional operator is also known as the ternary operator. This operator consists of three operands and is used to evaluate Boolean expressions. The goal of the operator is to decide which value should be assigned to the variable. The operator is written as:
+	variable x = (expression) ? value if true : value if false
+	Following is the example:
+
+public class Test {
+
+   public static void main(String args[]){
+      int a , b;
+      a = 10;
+      b = (a == 1) ? 20: 30;
+      System.out.println( "Value of b is : " +  b );
+
+      b = (a == 10) ? 20: 30;
+      System.out.println( "Value of b is : " + b );
+   }
+}
+This would produce the following result:
+
+Value of b is : 30
+Value of b is : 20
+INSTANCEOF OPERATORS:
+	This operator is used only for object reference variables. The operator checks whether the object is of a particular type(class type or interface type). instanceOf operator is wriiten as:
+	( Object reference variable ) instanceOf  (class/interface type)
+	If the object referred by the variable on the left side of the operator passes the IS-A check for the class/interface type on the right side, then the result will be true. Following is the example:
+	String name = = 'James';
+	boolean result = name instanceOf String;  
+	// This will return true since name is type of String
+	This operator will still return true if the object being compared is the assignment compatible with the type on the right. Following is one more example:
+
+	class Vehicle {}
+
+	public class Car extends Vehicle {
+    public static void main(String args[]){
+      Vehicle a = new Car();
+      boolean result =  a instanceof Car;
+      System.out.println( result);
+   }
+}
+This would produce the following result:
+
+true
