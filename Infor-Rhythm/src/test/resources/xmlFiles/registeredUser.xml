@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Registered User Suite">
+
+
+    <test name="Registered User Test Case">
+        <classes>
+            <class name="rhythmLite.registeredUser.test.RegisteredUserTestCases"></class>
+        </classes>
+    </test>
+
+
+
+</suite>

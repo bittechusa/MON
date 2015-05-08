@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Rhythm all test Suites" parallel="tests">
+
+    <suite-files>
+
+
+        <suite-file path="gustUser.xml"/>
+        <suite-file path="registeredUser.xml"/>
+        <suite-file path="miniCart.xml"/>
+        <suite-file path="dashboard.xml"/>
+        <suite-file path="shoppingCart.xml"/>
+        <suite-file path="draftOrders.xml"/>
+        <suite-file path="standardOrders.xml"/>
+
+
+    </suite-files>
+
+</suite>

@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite name="Standard Orders Suite">
+
+
+    <test name="Standard  Orders Test Cases">
+        <classes>
+            <class name="rhythmLite.standardOrders.test.StandardOrderTestCases"></class>
+        </classes>
+    </test>
+
+
+
+</suite>

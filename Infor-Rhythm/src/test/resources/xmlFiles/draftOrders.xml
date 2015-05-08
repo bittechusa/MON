@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite name="Draft Order Suite">
+
+
+    <test name="Draft Order Test Cases">
+        <classes>
+            <class name="rhythmLite.draftOrders.test.DraftOrdersTestCases"></class>
+        </classes>
+    </test>
+
+
+
+
+</suite>

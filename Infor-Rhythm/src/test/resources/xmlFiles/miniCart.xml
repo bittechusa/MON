@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite name="Mini Cart Suite">
+
+    <test name="Mini Cart Test Cases">
+        <classes>
+            <class name="rhythmLite.minCart.test.MiniCartTestCases"></class>
+        </classes>
+    </test>
+
+
+
+
+
+
+
+</suite>

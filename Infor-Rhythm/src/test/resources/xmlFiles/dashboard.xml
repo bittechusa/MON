@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Dashboard Suite">
+
+    <test name="Dashboard Test Cases">
+        <classes>
+            <class name="rhythmLite.dashboard.test.DashboardTestCases"> </class>
+        </classes>
+    </test>
+
+
+
+</suite>

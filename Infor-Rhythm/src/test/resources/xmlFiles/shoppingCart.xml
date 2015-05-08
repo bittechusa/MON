@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite name="Shopping Cart ">
+
+    <test name="Shopping Cart Test Cases">
+        <classes>
+            <class name="rhythmLite.shoppingCart.test.ShoppingCartTestCases"></class>
+        </classes>
+    </test>
+
+
+
+
+
+
+</suite>

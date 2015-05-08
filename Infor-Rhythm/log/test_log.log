@@ -1,0 +1,251 @@
+2015-04-23 16:31:53,195 - devpinoyLogger -INFO - Validating runmode for verifyGustUsersAddItemsToMiniCart in suite GustUser
+2015-04-23 16:31:53,245 - devpinoyLogger -INFO - Skipping the test verifyGustUsersAddItemsToMiniCart inside the suite GustUser
+2015-04-23 16:31:53,246 - devpinoyLogger -INFO - Validating runmode for verifyGustUsersAddItemsToMiniCart in suite GustUser
+2015-04-23 16:31:53,283 - devpinoyLogger -INFO - Skipping the test verifyGustUsersAddItemsToMiniCart inside the suite GustUser
+2015-04-23 16:31:53,284 - devpinoyLogger -INFO - Validating runmode for verifyGustUsersAddItemsToMiniCart in suite GustUser
+2015-04-23 16:31:53,314 - devpinoyLogger -INFO - Skipping the test verifyGustUsersAddItemsToMiniCart inside the suite GustUser
+2015-04-23 16:31:53,315 - devpinoyLogger -INFO - Validating runmode for verifyGustUsersAddItemsToMiniCart in suite GustUser
+2015-04-23 16:31:53,346 - devpinoyLogger -INFO - Skipping the test verifyGustUsersAddItemsToMiniCart inside the suite GustUser
+2015-04-23 16:31:53,365 - devpinoyLogger -INFO - Validating runmode for verifyGustUsersVisiting in suite GustUser
+2015-04-23 16:31:53,395 - devpinoyLogger -INFO - Skipping the test verifyGustUsersVisiting inside the suite GustUser
+2015-04-23 16:31:53,396 - devpinoyLogger -INFO - Validating runmode for verifyGustUsersVisiting in suite GustUser
+2015-04-23 16:31:53,423 - devpinoyLogger -INFO - Skipping the test verifyGustUsersVisiting inside the suite GustUser
+2015-04-23 16:31:53,424 - devpinoyLogger -INFO - Validating runmode for verifyGustUsersVisiting in suite GustUser
+2015-04-23 16:31:53,452 - devpinoyLogger -INFO - Skipping the test verifyGustUsersVisiting inside the suite GustUser
+2015-04-23 16:31:53,452 - devpinoyLogger -INFO - Validating runmode for verifyGustUsersVisiting in suite GustUser
+2015-04-23 16:31:53,474 - devpinoyLogger -INFO - Skipping the test verifyGustUsersVisiting inside the suite GustUser
+2015-04-23 16:31:53,522 - devpinoyLogger -INFO - Validating runmode for verifyLockedUserLogin in suite RegisteredUser
+2015-04-23 16:31:53,551 - devpinoyLogger -INFO - Skipping the test verifyLockedUserLogin inside the suite RegisteredUser
+2015-04-23 16:31:53,552 - devpinoyLogger -INFO - Validating runmode for verifyLockedUserLogin in suite RegisteredUser
+2015-04-23 16:31:53,580 - devpinoyLogger -INFO - Skipping the test verifyLockedUserLogin inside the suite RegisteredUser
+2015-04-23 16:31:53,581 - devpinoyLogger -INFO - Validating runmode for verifyLockedUserLogin in suite RegisteredUser
+2015-04-23 16:31:53,607 - devpinoyLogger -INFO - Skipping the test verifyLockedUserLogin inside the suite RegisteredUser
+2015-04-23 16:31:53,608 - devpinoyLogger -INFO - Validating runmode for verifyLockedUserLogin in suite RegisteredUser
+2015-04-23 16:31:53,633 - devpinoyLogger -INFO - Skipping the test verifyLockedUserLogin inside the suite RegisteredUser
+2015-04-23 16:31:53,651 - devpinoyLogger -INFO - Validating runmode for verifyLoginWithInvalidEmailInvalidPassword in suite RegisteredUser
+2015-04-23 16:31:53,678 - devpinoyLogger -INFO - Skipping the test verifyLoginWithInvalidEmailInvalidPassword inside the suite RegisteredUser
+2015-04-23 16:31:53,679 - devpinoyLogger -INFO - Validating runmode for verifyLoginWithInvalidEmailInvalidPassword in suite RegisteredUser
+2015-04-23 16:31:53,702 - devpinoyLogger -INFO - Skipping the test verifyLoginWithInvalidEmailInvalidPassword inside the suite RegisteredUser
+2015-04-23 16:31:53,703 - devpinoyLogger -INFO - Validating runmode for verifyLoginWithInvalidEmailInvalidPassword in suite RegisteredUser
+2015-04-23 16:31:53,738 - devpinoyLogger -INFO - Skipping the test verifyLoginWithInvalidEmailInvalidPassword inside the suite RegisteredUser
+2015-04-23 16:31:53,739 - devpinoyLogger -INFO - Validating runmode for verifyLoginWithInvalidEmailInvalidPassword in suite RegisteredUser
+2015-04-23 16:31:53,761 - devpinoyLogger -INFO - Skipping the test verifyLoginWithInvalidEmailInvalidPassword inside the suite RegisteredUser
+2015-04-23 16:31:53,780 - devpinoyLogger -INFO - Validating runmode for verifyLoginWithInvalidEmailValidPassword in suite RegisteredUser
+2015-04-23 16:31:53,805 - devpinoyLogger -INFO - Skipping the test verifyLoginWithInvalidEmailValidPassword inside the suite RegisteredUser
+2015-04-23 16:31:53,805 - devpinoyLogger -INFO - Validating runmode for verifyLoginWithInvalidEmailValidPassword in suite RegisteredUser
+2015-04-23 16:31:53,829 - devpinoyLogger -INFO - Skipping the test verifyLoginWithInvalidEmailValidPassword inside the suite RegisteredUser
+2015-04-23 16:31:53,829 - devpinoyLogger -INFO - Validating runmode for verifyLoginWithInvalidEmailValidPassword in suite RegisteredUser
+2015-04-23 16:31:53,855 - devpinoyLogger -INFO - Skipping the test verifyLoginWithInvalidEmailValidPassword inside the suite RegisteredUser
+2015-04-23 16:31:53,856 - devpinoyLogger -INFO - Validating runmode for verifyLoginWithInvalidEmailValidPassword in suite RegisteredUser
+2015-04-23 16:31:53,877 - devpinoyLogger -INFO - Skipping the test verifyLoginWithInvalidEmailValidPassword inside the suite RegisteredUser
+2015-04-23 16:31:53,895 - devpinoyLogger -INFO - Validating runmode for verifyLoginWithValidEmailValidPassword in suite RegisteredUser
+2015-04-23 16:31:53,914 - devpinoyLogger -INFO - Open Browser -- Firefox
+2015-04-23 16:32:00,414 - devpinoyLogger -INFO - Navigate to the URL --- TestSiteURL
+2015-04-23 16:32:02,052 - devpinoyLogger -INFO - Click on --- BeforeLoginUserIcon_id
+2015-04-23 16:32:02,220 - devpinoyLogger -INFO - Click on --- login_xpath
+2015-04-23 16:32:02,575 - devpinoyLogger -INFO - Input ---- QA@Infor.com
+2015-04-23 16:32:02,840 - devpinoyLogger -INFO - Input ---- Infor123
+2015-04-23 16:32:02,989 - devpinoyLogger -INFO - Click on --- SubmitButton_css
+2015-04-23 16:32:15,129 - devpinoyLogger -INFO - Click on --- AfterLoginUserIcon_id
+2015-04-23 16:32:17,199 - devpinoyLogger -INFO - Get Text --- ActualUserName_xpath
+2015-04-23 16:32:17,200 - devpinoyLogger -INFO - Welcome Back, Generic QA
+2015-04-23 16:32:17,200 - devpinoyLogger -INFO - Welcome Back, Gener is not equal to Welcome Back, Generic QA
+2015-04-23 16:32:17,309 - devpinoyLogger -INFO - Close Browser
+2015-04-23 16:32:17,310 - devpinoyLogger -INFO - Validating runmode for verifyLoginWithValidEmailValidPassword in suite RegisteredUser
+2015-04-23 16:32:17,336 - devpinoyLogger -INFO - Skipping the test verifyLoginWithValidEmailValidPassword inside the suite RegisteredUser
+2015-04-23 16:32:17,338 - devpinoyLogger -INFO - Validating runmode for verifyLoginWithValidEmailValidPassword in suite RegisteredUser
+2015-04-23 16:32:17,361 - devpinoyLogger -INFO - Skipping the test verifyLoginWithValidEmailValidPassword inside the suite RegisteredUser
+2015-04-23 16:32:17,361 - devpinoyLogger -INFO - Validating runmode for verifyLoginWithValidEmailValidPassword in suite RegisteredUser
+2015-04-23 16:32:17,383 - devpinoyLogger -INFO - Skipping the test verifyLoginWithValidEmailValidPassword inside the suite RegisteredUser
+2015-04-23 16:32:17,399 - devpinoyLogger -INFO - Validating runmode for verifyLoginWithValidEmailWithoutPassword in suite RegisteredUser
+2015-04-23 16:32:17,422 - devpinoyLogger -INFO - Skipping the test verifyLoginWithValidEmailWithoutPassword inside the suite RegisteredUser
+2015-04-23 16:32:17,423 - devpinoyLogger -INFO - Validating runmode for verifyLoginWithValidEmailWithoutPassword in suite RegisteredUser
+2015-04-23 16:32:17,449 - devpinoyLogger -INFO - Skipping the test verifyLoginWithValidEmailWithoutPassword inside the suite RegisteredUser
+2015-04-23 16:32:17,450 - devpinoyLogger -INFO - Validating runmode for verifyLoginWithValidEmailWithoutPassword in suite RegisteredUser
+2015-04-23 16:32:17,476 - devpinoyLogger -INFO - Skipping the test verifyLoginWithValidEmailWithoutPassword inside the suite RegisteredUser
+2015-04-23 16:32:17,477 - devpinoyLogger -INFO - Validating runmode for verifyLoginWithValidEmailWithoutPassword in suite RegisteredUser
+2015-04-23 16:32:17,497 - devpinoyLogger -INFO - Skipping the test verifyLoginWithValidEmailWithoutPassword inside the suite RegisteredUser
+2015-04-23 16:32:17,515 - devpinoyLogger -INFO - Validating runmode for verifyLoginWithValidEmailWrongPassword in suite RegisteredUser
+2015-04-23 16:32:17,535 - devpinoyLogger -INFO - Skipping the test verifyLoginWithValidEmailWrongPassword inside the suite RegisteredUser
+2015-04-23 16:32:17,536 - devpinoyLogger -INFO - Validating runmode for verifyLoginWithValidEmailWrongPassword in suite RegisteredUser
+2015-04-23 16:32:17,555 - devpinoyLogger -INFO - Skipping the test verifyLoginWithValidEmailWrongPassword inside the suite RegisteredUser
+2015-04-23 16:32:17,556 - devpinoyLogger -INFO - Validating runmode for verifyLoginWithValidEmailWrongPassword in suite RegisteredUser
+2015-04-23 16:32:17,578 - devpinoyLogger -INFO - Skipping the test verifyLoginWithValidEmailWrongPassword inside the suite RegisteredUser
+2015-04-23 16:32:17,578 - devpinoyLogger -INFO - Validating runmode for verifyLoginWithValidEmailWrongPassword in suite RegisteredUser
+2015-04-23 16:32:17,616 - devpinoyLogger -INFO - Skipping the test verifyLoginWithValidEmailWrongPassword inside the suite RegisteredUser
+2015-04-23 16:32:17,638 - devpinoyLogger -INFO - Validating runmode for verifyLoginWithWithoutEmailValidPassword in suite RegisteredUser
+2015-04-23 16:32:17,660 - devpinoyLogger -INFO - Skipping the test verifyLoginWithWithoutEmailValidPassword inside the suite RegisteredUser
+2015-04-23 16:32:17,661 - devpinoyLogger -INFO - Validating runmode for verifyLoginWithWithoutEmailValidPassword in suite RegisteredUser
+2015-04-23 16:32:17,684 - devpinoyLogger -INFO - Skipping the test verifyLoginWithWithoutEmailValidPassword inside the suite RegisteredUser
+2015-04-23 16:32:17,685 - devpinoyLogger -INFO - Validating runmode for verifyLoginWithWithoutEmailValidPassword in suite RegisteredUser
+2015-04-23 16:32:17,706 - devpinoyLogger -INFO - Skipping the test verifyLoginWithWithoutEmailValidPassword inside the suite RegisteredUser
+2015-04-23 16:32:17,707 - devpinoyLogger -INFO - Validating runmode for verifyLoginWithWithoutEmailValidPassword in suite RegisteredUser
+2015-04-23 16:32:17,726 - devpinoyLogger -INFO - Skipping the test verifyLoginWithWithoutEmailValidPassword inside the suite RegisteredUser
+2015-04-23 16:32:17,738 - devpinoyLogger -INFO - Validating runmode for verifyRegisterUserIncorrectCredential5Times in suite RegisteredUser
+2015-04-23 16:32:17,756 - devpinoyLogger -INFO - Skipping the test verifyRegisterUserIncorrectCredential5Times inside the suite RegisteredUser
+2015-04-23 16:32:17,757 - devpinoyLogger -INFO - Validating runmode for verifyRegisterUserIncorrectCredential5Times in suite RegisteredUser
+2015-04-23 16:32:17,775 - devpinoyLogger -INFO - Skipping the test verifyRegisterUserIncorrectCredential5Times inside the suite RegisteredUser
+2015-04-23 16:32:17,776 - devpinoyLogger -INFO - Validating runmode for verifyRegisterUserIncorrectCredential5Times in suite RegisteredUser
+2015-04-23 16:32:17,794 - devpinoyLogger -INFO - Skipping the test verifyRegisterUserIncorrectCredential5Times inside the suite RegisteredUser
+2015-04-23 16:32:17,795 - devpinoyLogger -INFO - Validating runmode for verifyRegisterUserIncorrectCredential5Times in suite RegisteredUser
+2015-04-23 16:32:17,810 - devpinoyLogger -INFO - Skipping the test verifyRegisterUserIncorrectCredential5Times inside the suite RegisteredUser
+2015-04-23 16:32:17,823 - devpinoyLogger -INFO - Validating runmode for verifyVisitSiteAsGuestUser in suite RegisteredUser
+2015-04-23 16:32:17,841 - devpinoyLogger -INFO - Skipping the test verifyVisitSiteAsGuestUser inside the suite RegisteredUser
+2015-04-23 16:32:17,842 - devpinoyLogger -INFO - Validating runmode for verifyVisitSiteAsGuestUser in suite RegisteredUser
+2015-04-23 16:32:17,862 - devpinoyLogger -INFO - Skipping the test verifyVisitSiteAsGuestUser inside the suite RegisteredUser
+2015-04-23 16:32:17,863 - devpinoyLogger -INFO - Validating runmode for verifyVisitSiteAsGuestUser in suite RegisteredUser
+2015-04-23 16:32:17,878 - devpinoyLogger -INFO - Skipping the test verifyVisitSiteAsGuestUser inside the suite RegisteredUser
+2015-04-23 16:32:17,879 - devpinoyLogger -INFO - Validating runmode for verifyVisitSiteAsGuestUser in suite RegisteredUser
+2015-04-23 16:32:17,900 - devpinoyLogger -INFO - Skipping the test verifyVisitSiteAsGuestUser inside the suite RegisteredUser
+2015-04-23 16:32:17,945 - devpinoyLogger -INFO - Validating runmode for addItemRUser in suite MiniCart
+2015-04-23 16:32:17,959 - devpinoyLogger -INFO - Skipping the test addItemRUser inside the suite MiniCart
+2015-04-23 16:32:17,960 - devpinoyLogger -INFO - Validating runmode for addItemRUser in suite MiniCart
+2015-04-23 16:32:17,975 - devpinoyLogger -INFO - Skipping the test addItemRUser inside the suite MiniCart
+2015-04-23 16:32:17,976 - devpinoyLogger -INFO - Validating runmode for addItemRUser in suite MiniCart
+2015-04-23 16:32:17,992 - devpinoyLogger -INFO - Skipping the test addItemRUser inside the suite MiniCart
+2015-04-23 16:32:17,993 - devpinoyLogger -INFO - Validating runmode for addItemRUser in suite MiniCart
+2015-04-23 16:32:18,007 - devpinoyLogger -INFO - Skipping the test addItemRUser inside the suite MiniCart
+2015-04-23 16:32:18,022 - devpinoyLogger -INFO - Validating runmode for validateMenuButton in suite Dashboard
+2015-04-23 16:32:18,038 - devpinoyLogger -INFO - Skipping the test validateMenuButton inside the suite Dashboard
+2015-04-23 16:32:18,039 - devpinoyLogger -INFO - Validating runmode for validateMenuButton in suite Dashboard
+2015-04-23 16:32:18,055 - devpinoyLogger -INFO - Skipping the test validateMenuButton inside the suite Dashboard
+2015-04-23 16:32:18,056 - devpinoyLogger -INFO - Validating runmode for validateMenuButton in suite Dashboard
+2015-04-23 16:32:18,071 - devpinoyLogger -INFO - Skipping the test validateMenuButton inside the suite Dashboard
+2015-04-23 16:32:18,072 - devpinoyLogger -INFO - Validating runmode for validateMenuButton in suite Dashboard
+2015-04-23 16:32:18,091 - devpinoyLogger -INFO - Skipping the test validateMenuButton inside the suite Dashboard
+2015-04-23 16:32:18,104 - devpinoyLogger -INFO - Validating runmode for validateMiniCartButton in suite Dashboard
+2015-04-23 16:32:18,120 - devpinoyLogger -INFO - Skipping the test validateMiniCartButton inside the suite Dashboard
+2015-04-23 16:32:18,121 - devpinoyLogger -INFO - Validating runmode for validateMiniCartButton in suite Dashboard
+2015-04-23 16:32:18,134 - devpinoyLogger -INFO - Skipping the test validateMiniCartButton inside the suite Dashboard
+2015-04-23 16:32:18,135 - devpinoyLogger -INFO - Validating runmode for validateMiniCartButton in suite Dashboard
+2015-04-23 16:32:18,150 - devpinoyLogger -INFO - Skipping the test validateMiniCartButton inside the suite Dashboard
+2015-04-23 16:32:18,151 - devpinoyLogger -INFO - Validating runmode for validateMiniCartButton in suite Dashboard
+2015-04-23 16:32:18,165 - devpinoyLogger -INFO - Skipping the test validateMiniCartButton inside the suite Dashboard
+2015-04-23 16:32:18,176 - devpinoyLogger -INFO - Validating runmode for validateSearchButton in suite Dashboard
+2015-04-23 16:32:18,191 - devpinoyLogger -INFO - Skipping the test validateSearchButton inside the suite Dashboard
+2015-04-23 16:32:18,192 - devpinoyLogger -INFO - Validating runmode for validateSearchButton in suite Dashboard
+2015-04-23 16:32:18,207 - devpinoyLogger -INFO - Skipping the test validateSearchButton inside the suite Dashboard
+2015-04-23 16:32:18,208 - devpinoyLogger -INFO - Validating runmode for validateSearchButton in suite Dashboard
+2015-04-23 16:32:18,222 - devpinoyLogger -INFO - Skipping the test validateSearchButton inside the suite Dashboard
+2015-04-23 16:32:18,223 - devpinoyLogger -INFO - Validating runmode for validateSearchButton in suite Dashboard
+2015-04-23 16:32:18,236 - devpinoyLogger -INFO - Skipping the test validateSearchButton inside the suite Dashboard
+2015-04-23 16:32:18,248 - devpinoyLogger -INFO - Validating runmode for validateUserButton in suite Dashboard
+2015-04-23 16:32:18,261 - devpinoyLogger -INFO - Skipping the test validateUserButton inside the suite Dashboard
+2015-04-23 16:32:18,261 - devpinoyLogger -INFO - Validating runmode for validateUserButton in suite Dashboard
+2015-04-23 16:32:18,274 - devpinoyLogger -INFO - Skipping the test validateUserButton inside the suite Dashboard
+2015-04-23 16:32:18,275 - devpinoyLogger -INFO - Validating runmode for validateUserButton in suite Dashboard
+2015-04-23 16:32:18,290 - devpinoyLogger -INFO - Skipping the test validateUserButton inside the suite Dashboard
+2015-04-23 16:32:18,291 - devpinoyLogger -INFO - Validating runmode for validateUserButton in suite Dashboard
+2015-04-23 16:32:18,307 - devpinoyLogger -INFO - Skipping the test validateUserButton inside the suite Dashboard
+2015-04-23 16:32:18,320 - devpinoyLogger -INFO - Validating runmode for validateOrderHistoryLinks in suite Dashboard
+2015-04-23 16:32:18,338 - devpinoyLogger -INFO - Skipping the test validateOrderHistoryLinks inside the suite Dashboard
+2015-04-23 16:32:18,339 - devpinoyLogger -INFO - Validating runmode for validateOrderHistoryLinks in suite Dashboard
+2015-04-23 16:32:18,356 - devpinoyLogger -INFO - Skipping the test validateOrderHistoryLinks inside the suite Dashboard
+2015-04-23 16:32:18,356 - devpinoyLogger -INFO - Validating runmode for validateOrderHistoryLinks in suite Dashboard
+2015-04-23 16:32:18,373 - devpinoyLogger -INFO - Skipping the test validateOrderHistoryLinks inside the suite Dashboard
+2015-04-23 16:32:18,374 - devpinoyLogger -INFO - Validating runmode for validateOrderHistoryLinks in suite Dashboard
+2015-04-23 16:32:18,390 - devpinoyLogger -INFO - Skipping the test validateOrderHistoryLinks inside the suite Dashboard
+2015-04-23 16:32:18,403 - devpinoyLogger -INFO - Validating runmode for validateInvoiceLinks in suite Dashboard
+2015-04-23 16:32:18,419 - devpinoyLogger -INFO - Skipping the test validateInvoiceLinks inside the suite Dashboard
+2015-04-23 16:32:18,419 - devpinoyLogger -INFO - Validating runmode for validateInvoiceLinks in suite Dashboard
+2015-04-23 16:32:18,440 - devpinoyLogger -INFO - Skipping the test validateInvoiceLinks inside the suite Dashboard
+2015-04-23 16:32:18,441 - devpinoyLogger -INFO - Validating runmode for validateInvoiceLinks in suite Dashboard
+2015-04-23 16:32:18,455 - devpinoyLogger -INFO - Skipping the test validateInvoiceLinks inside the suite Dashboard
+2015-04-23 16:32:18,455 - devpinoyLogger -INFO - Validating runmode for validateInvoiceLinks in suite Dashboard
+2015-04-23 16:32:18,468 - devpinoyLogger -INFO - Skipping the test validateInvoiceLinks inside the suite Dashboard
+2015-04-23 16:32:18,478 - devpinoyLogger -INFO - Validating runmode for validateAddItemNumber in suite Dashboard
+2015-04-23 16:32:18,492 - devpinoyLogger -INFO - Skipping the test validateAddItemNumber inside the suite Dashboard
+2015-04-23 16:32:18,492 - devpinoyLogger -INFO - Validating runmode for validateAddItemNumber in suite Dashboard
+2015-04-23 16:32:18,508 - devpinoyLogger -INFO - Skipping the test validateAddItemNumber inside the suite Dashboard
+2015-04-23 16:32:18,509 - devpinoyLogger -INFO - Validating runmode for validateAddItemNumber in suite Dashboard
+2015-04-23 16:32:18,522 - devpinoyLogger -INFO - Skipping the test validateAddItemNumber inside the suite Dashboard
+2015-04-23 16:32:18,523 - devpinoyLogger -INFO - Validating runmode for validateAddItemNumber in suite Dashboard
+2015-04-23 16:32:18,539 - devpinoyLogger -INFO - Skipping the test validateAddItemNumber inside the suite Dashboard
+2015-04-23 16:32:18,551 - devpinoyLogger -INFO - Validating runmode for validateDeliveryNotesLinks in suite Dashboard
+2015-04-23 16:32:18,565 - devpinoyLogger -INFO - Skipping the test validateDeliveryNotesLinks inside the suite Dashboard
+2015-04-23 16:32:18,566 - devpinoyLogger -INFO - Validating runmode for validateDeliveryNotesLinks in suite Dashboard
+2015-04-23 16:32:18,581 - devpinoyLogger -INFO - Skipping the test validateDeliveryNotesLinks inside the suite Dashboard
+2015-04-23 16:32:18,582 - devpinoyLogger -INFO - Validating runmode for validateDeliveryNotesLinks in suite Dashboard
+2015-04-23 16:32:18,595 - devpinoyLogger -INFO - Skipping the test validateDeliveryNotesLinks inside the suite Dashboard
+2015-04-23 16:32:18,596 - devpinoyLogger -INFO - Validating runmode for validateDeliveryNotesLinks in suite Dashboard
+2015-04-23 16:32:18,609 - devpinoyLogger -INFO - Skipping the test validateDeliveryNotesLinks inside the suite Dashboard
+2015-04-23 16:32:18,635 - devpinoyLogger -INFO - Validating runmode for verifyOrderFromFE in suite ShoppingCart
+2015-04-23 16:32:18,650 - devpinoyLogger -INFO - Skipping the test verifyOrderFromFE inside the suite ShoppingCart
+2015-04-23 16:32:18,650 - devpinoyLogger -INFO - Validating runmode for verifyOrderFromFE in suite ShoppingCart
+2015-04-23 16:32:18,665 - devpinoyLogger -INFO - Skipping the test verifyOrderFromFE inside the suite ShoppingCart
+2015-04-23 16:32:18,666 - devpinoyLogger -INFO - Validating runmode for verifyOrderFromFE in suite ShoppingCart
+2015-04-23 16:32:18,679 - devpinoyLogger -INFO - Skipping the test verifyOrderFromFE inside the suite ShoppingCart
+2015-04-23 16:32:18,680 - devpinoyLogger -INFO - Validating runmode for verifyOrderFromFE in suite ShoppingCart
+2015-04-23 16:32:18,694 - devpinoyLogger -INFO - Skipping the test verifyOrderFromFE inside the suite ShoppingCart
+2015-04-23 16:32:18,707 - devpinoyLogger -INFO - Validating runmode for verifyCreateCompanyDraftOrders in suite DraftOrders
+2015-04-23 16:32:18,722 - devpinoyLogger -INFO - Skipping the test verifyCreateCompanyDraftOrders inside the suite DraftOrders
+2015-04-23 16:32:18,723 - devpinoyLogger -INFO - Validating runmode for verifyCreateCompanyDraftOrders in suite DraftOrders
+2015-04-23 16:32:18,738 - devpinoyLogger -INFO - Skipping the test verifyCreateCompanyDraftOrders inside the suite DraftOrders
+2015-04-23 16:32:18,738 - devpinoyLogger -INFO - Validating runmode for verifyCreateCompanyDraftOrders in suite DraftOrders
+2015-04-23 16:32:18,754 - devpinoyLogger -INFO - Skipping the test verifyCreateCompanyDraftOrders inside the suite DraftOrders
+2015-04-23 16:32:18,755 - devpinoyLogger -INFO - Validating runmode for verifyCreateCompanyDraftOrders in suite DraftOrders
+2015-04-23 16:32:18,773 - devpinoyLogger -INFO - Skipping the test verifyCreateCompanyDraftOrders inside the suite DraftOrders
+2015-04-23 16:32:18,785 - devpinoyLogger -INFO - Validating runmode for verifyCreateSingleDraftOrders in suite DraftOrders
+2015-04-23 16:32:18,804 - devpinoyLogger -INFO - Skipping the test verifyCreateSingleDraftOrders inside the suite DraftOrders
+2015-04-23 16:32:18,804 - devpinoyLogger -INFO - Validating runmode for verifyCreateSingleDraftOrders in suite DraftOrders
+2015-04-23 16:32:18,819 - devpinoyLogger -INFO - Skipping the test verifyCreateSingleDraftOrders inside the suite DraftOrders
+2015-04-23 16:32:18,820 - devpinoyLogger -INFO - Validating runmode for verifyCreateSingleDraftOrders in suite DraftOrders
+2015-04-23 16:32:18,836 - devpinoyLogger -INFO - Skipping the test verifyCreateSingleDraftOrders inside the suite DraftOrders
+2015-04-23 16:32:18,837 - devpinoyLogger -INFO - Validating runmode for verifyCreateSingleDraftOrders in suite DraftOrders
+2015-04-23 16:32:18,858 - devpinoyLogger -INFO - Skipping the test verifyCreateSingleDraftOrders inside the suite DraftOrders
+2015-04-23 16:32:18,871 - devpinoyLogger -INFO - Validating runmode for verifyDraftOrdersFE in suite DraftOrders
+2015-04-23 16:32:18,887 - devpinoyLogger -INFO - Skipping the test verifyDraftOrdersFE inside the suite DraftOrders
+2015-04-23 16:32:18,888 - devpinoyLogger -INFO - Validating runmode for verifyDraftOrdersFE in suite DraftOrders
+2015-04-23 16:32:18,905 - devpinoyLogger -INFO - Skipping the test verifyDraftOrdersFE inside the suite DraftOrders
+2015-04-23 16:32:18,905 - devpinoyLogger -INFO - Validating runmode for verifyDraftOrdersFE in suite DraftOrders
+2015-04-23 16:32:18,920 - devpinoyLogger -INFO - Skipping the test verifyDraftOrdersFE inside the suite DraftOrders
+2015-04-23 16:32:18,920 - devpinoyLogger -INFO - Validating runmode for verifyDraftOrdersFE in suite DraftOrders
+2015-04-23 16:32:18,939 - devpinoyLogger -INFO - Skipping the test verifyDraftOrdersFE inside the suite DraftOrders
+2015-04-23 16:32:18,953 - devpinoyLogger -INFO - Validating runmode for verifyDraftOrdersNameColumn in suite DraftOrders
+2015-04-23 16:32:18,967 - devpinoyLogger -INFO - Skipping the test verifyDraftOrdersNameColumn inside the suite DraftOrders
+2015-04-23 16:32:18,968 - devpinoyLogger -INFO - Validating runmode for verifyDraftOrdersNameColumn in suite DraftOrders
+2015-04-23 16:32:18,983 - devpinoyLogger -INFO - Skipping the test verifyDraftOrdersNameColumn inside the suite DraftOrders
+2015-04-23 16:32:18,984 - devpinoyLogger -INFO - Validating runmode for verifyDraftOrdersNameColumn in suite DraftOrders
+2015-04-23 16:32:18,999 - devpinoyLogger -INFO - Skipping the test verifyDraftOrdersNameColumn inside the suite DraftOrders
+2015-04-23 16:32:19,000 - devpinoyLogger -INFO - Validating runmode for verifyDraftOrdersNameColumn in suite DraftOrders
+2015-04-23 16:32:19,014 - devpinoyLogger -INFO - Skipping the test verifyDraftOrdersNameColumn inside the suite DraftOrders
+2015-04-23 16:32:19,025 - devpinoyLogger -INFO - Validating runmode for verifyTheClickOnDraftOrdersItemIDToItemDetails in suite DraftOrders
+2015-04-23 16:32:19,042 - devpinoyLogger -INFO - Skipping the test verifyTheClickOnDraftOrdersItemIDToItemDetails inside the suite DraftOrders
+2015-04-23 16:32:19,043 - devpinoyLogger -INFO - Validating runmode for verifyTheClickOnDraftOrdersItemIDToItemDetails in suite DraftOrders
+2015-04-23 16:32:19,058 - devpinoyLogger -INFO - Skipping the test verifyTheClickOnDraftOrdersItemIDToItemDetails inside the suite DraftOrders
+2015-04-23 16:32:19,058 - devpinoyLogger -INFO - Validating runmode for verifyTheClickOnDraftOrdersItemIDToItemDetails in suite DraftOrders
+2015-04-23 16:32:19,075 - devpinoyLogger -INFO - Skipping the test verifyTheClickOnDraftOrdersItemIDToItemDetails inside the suite DraftOrders
+2015-04-23 16:32:19,076 - devpinoyLogger -INFO - Validating runmode for verifyTheClickOnDraftOrdersItemIDToItemDetails in suite DraftOrders
+2015-04-23 16:32:19,092 - devpinoyLogger -INFO - Skipping the test verifyTheClickOnDraftOrdersItemIDToItemDetails inside the suite DraftOrders
+2015-04-23 16:32:19,102 - devpinoyLogger -INFO - Validating runmode for verifyTheClickOnDraftOrdersItemImageToItemDetails in suite DraftOrders
+2015-04-23 16:32:19,117 - devpinoyLogger -INFO - Skipping the test verifyTheClickOnDraftOrdersItemImageToItemDetails inside the suite DraftOrders
+2015-04-23 16:32:19,118 - devpinoyLogger -INFO - Validating runmode for verifyTheClickOnDraftOrdersItemImageToItemDetails in suite DraftOrders
+2015-04-23 16:32:19,130 - devpinoyLogger -INFO - Skipping the test verifyTheClickOnDraftOrdersItemImageToItemDetails inside the suite DraftOrders
+2015-04-23 16:32:19,131 - devpinoyLogger -INFO - Validating runmode for verifyTheClickOnDraftOrdersItemImageToItemDetails in suite DraftOrders
+2015-04-23 16:32:19,144 - devpinoyLogger -INFO - Skipping the test verifyTheClickOnDraftOrdersItemImageToItemDetails inside the suite DraftOrders
+2015-04-23 16:32:19,144 - devpinoyLogger -INFO - Validating runmode for verifyTheClickOnDraftOrdersItemImageToItemDetails in suite DraftOrders
+2015-04-23 16:32:19,158 - devpinoyLogger -INFO - Skipping the test verifyTheClickOnDraftOrdersItemImageToItemDetails inside the suite DraftOrders
+2015-04-23 16:32:19,171 - devpinoyLogger -INFO - Validating runmode for verifyTheDraftOrdersNameClickViewDetailsExpand in suite DraftOrders
+2015-04-23 16:32:19,186 - devpinoyLogger -INFO - Skipping the test verifyTheDraftOrdersNameClickViewDetailsExpand inside the suite DraftOrders
+2015-04-23 16:32:19,187 - devpinoyLogger -INFO - Validating runmode for verifyTheDraftOrdersNameClickViewDetailsExpand in suite DraftOrders
+2015-04-23 16:32:19,201 - devpinoyLogger -INFO - Skipping the test verifyTheDraftOrdersNameClickViewDetailsExpand inside the suite DraftOrders
+2015-04-23 16:32:19,202 - devpinoyLogger -INFO - Validating runmode for verifyTheDraftOrdersNameClickViewDetailsExpand in suite DraftOrders
+2015-04-23 16:32:19,215 - devpinoyLogger -INFO - Skipping the test verifyTheDraftOrdersNameClickViewDetailsExpand inside the suite DraftOrders
+2015-04-23 16:32:19,216 - devpinoyLogger -INFO - Validating runmode for verifyTheDraftOrdersNameClickViewDetailsExpand in suite DraftOrders
+2015-04-23 16:32:19,230 - devpinoyLogger -INFO - Skipping the test verifyTheDraftOrdersNameClickViewDetailsExpand inside the suite DraftOrders
+2015-04-23 16:32:19,240 - devpinoyLogger -INFO - Validating runmode for verifyTheDraftTab in suite DraftOrders
+2015-04-23 16:32:19,259 - devpinoyLogger -INFO - Skipping the test verifyTheDraftTab inside the suite DraftOrders
+2015-04-23 16:32:19,260 - devpinoyLogger -INFO - Validating runmode for verifyTheDraftTab in suite DraftOrders
+2015-04-23 16:32:19,281 - devpinoyLogger -INFO - Skipping the test verifyTheDraftTab inside the suite DraftOrders
+2015-04-23 16:32:19,281 - devpinoyLogger -INFO - Validating runmode for verifyTheDraftTab in suite DraftOrders
+2015-04-23 16:32:19,300 - devpinoyLogger -INFO - Skipping the test verifyTheDraftTab inside the suite DraftOrders
+2015-04-23 16:32:19,301 - devpinoyLogger -INFO - Validating runmode for verifyTheDraftTab in suite DraftOrders
+2015-04-23 16:32:19,312 - devpinoyLogger -INFO - Skipping the test verifyTheDraftTab inside the suite DraftOrders
+2015-04-23 16:32:19,330 - devpinoyLogger -INFO - Validating runmode for verifyStandardOrdersFE in suite StandardOrders
+2015-04-23 16:32:19,343 - devpinoyLogger -INFO - Skipping the test verifyStandardOrdersFE inside the suite StandardOrders
+2015-04-23 16:32:19,344 - devpinoyLogger -INFO - Validating runmode for verifyStandardOrdersFE in suite StandardOrders
+2015-04-23 16:32:19,357 - devpinoyLogger -INFO - Skipping the test verifyStandardOrdersFE inside the suite StandardOrders
+2015-04-23 16:32:19,358 - devpinoyLogger -INFO - Validating runmode for verifyStandardOrdersFE in suite StandardOrders
+2015-04-23 16:32:19,370 - devpinoyLogger -INFO - Skipping the test verifyStandardOrdersFE inside the suite StandardOrders
+2015-04-23 16:32:19,370 - devpinoyLogger -INFO - Validating runmode for verifyStandardOrdersFE in suite StandardOrders
+2015-04-23 16:32:19,383 - devpinoyLogger -INFO - Skipping the test verifyStandardOrdersFE inside the suite StandardOrders
